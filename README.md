@@ -11,3 +11,4 @@ Made electronic schemes for most of the projects.
 **sketch_5:** Communication with terminal using UART interface  
 **sketch_6:** Simulation of digital kettle using temperature sensor.  
 **sketch_7:** Practice of IR wireless communication based on CSOP2236 – IRremote library  
+**bonus:** Programming NeoPixel ring and OLED display  
