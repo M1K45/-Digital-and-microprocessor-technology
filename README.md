@@ -1,6 +1,7 @@
 # -Digital-and-microprocessor-technology
 Code written for my laboratory tasks during my embedded classes.
-Using Arduino IDE but using mostly C programming language
+Using Arduino IDE but using mostly C programming language. 
+Made electronic schemes for most of the projects.  
 
 **sketch_0:** Simple diode blinking  
 **sketch_1:** Diodes are blinking in a row  
